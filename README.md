@@ -3,34 +3,34 @@ This repository is created to make the templates of the research available for t
 ## Directory structure
 ```
 Automation/
-  | ...
-  |
-  +--IDSs/
-  | ...
-  |
-  +--Traffic_generator/
-  | ...
-  |
+| ...
+|
++--IDSs/
+| ...
+|
++--Traffic_generator/
+| ...
+|
 Measurements/
-  |
-  +--Raw_logs/
-  |  |
-  |  +---Virtual_environment/
-  |  |    ...  
-  |  |
-  |  +---Physical_environment/
-  |      |
-  |      +---stdout_logs/
-  |      |    ...
-  |      +---GNU_time_logs/
-  |             |   ...
-  |             +---Logs_with_attack/
-  |                   |       ....
-  |                   +---stdout_logs/
-  |                             ...
+|
++--Raw_logs/
+|  |
+|  +---Virtual_environment/
+|  |    ...  
+|  |
+|  +---Physical_environment/
+|      |
+|      +---stdout_logs/
+|      |    ...
+|      +---GNU_time_logs/
+|             |   ...
+|             +---Logs_with_attack/
+|                   |       ....
+|                   +---stdout_logs/
+|                             ...
 Python/
-  |
-  |
+|
+|
 
 ```
 ---
