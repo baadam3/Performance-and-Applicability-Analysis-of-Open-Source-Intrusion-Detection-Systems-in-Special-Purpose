@@ -1,0 +1,80 @@
+22/3/2022 -- 16:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+22/3/2022 -- 16:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+22/3/2022 -- 16:25:53 - <Notice> - Signal Received.  Stopping engine.
+22/3/2022 -- 16:25:54 - <Notice> - Stats for 'eth0':  pkts: 4402630, drop: 0 (0.00%), invalid chksum: 0
+22/3/2022 -- 20:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+22/3/2022 -- 20:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+22/3/2022 -- 20:25:53 - <Notice> - Signal Received.  Stopping engine.
+22/3/2022 -- 20:25:54 - <Notice> - Stats for 'eth0':  pkts: 4399870, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 00:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 00:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 00:25:52 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 00:25:53 - <Notice> - Stats for 'eth0':  pkts: 4398998, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 04:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 04:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 04:25:53 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 04:25:54 - <Notice> - Stats for 'eth0':  pkts: 4401471, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 08:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 08:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 08:25:53 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 08:25:53 - <Notice> - Stats for 'eth0':  pkts: 4399592, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 12:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 12:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 12:25:53 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 12:25:54 - <Notice> - Stats for 'eth0':  pkts: 4402628, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 16:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 16:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 16:25:52 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 16:25:53 - <Notice> - Stats for 'eth0':  pkts: 4399871, drop: 0 (0.00%), invalid chksum: 0
+23/3/2022 -- 20:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+23/3/2022 -- 20:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+23/3/2022 -- 20:25:53 - <Notice> - Signal Received.  Stopping engine.
+23/3/2022 -- 20:25:54 - <Notice> - Stats for 'eth0':  pkts: 4402623, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 00:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 00:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 00:25:53 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 00:25:54 - <Notice> - Stats for 'eth0':  pkts: 4400322, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 04:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 04:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 04:25:53 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 04:25:54 - <Notice> - Stats for 'eth0':  pkts: 4402634, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 08:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 08:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 08:25:52 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 08:25:53 - <Notice> - Stats for 'eth0':  pkts: 4399512, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 12:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 12:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 12:25:53 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 12:25:54 - <Notice> - Stats for 'eth0':  pkts: 4399679, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 16:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 16:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 16:25:53 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 16:25:54 - <Notice> - Stats for 'eth0':  pkts: 4400469, drop: 0 (0.00%), invalid chksum: 0
+24/3/2022 -- 20:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+24/3/2022 -- 20:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+24/3/2022 -- 20:25:53 - <Notice> - Signal Received.  Stopping engine.
+24/3/2022 -- 20:25:54 - <Notice> - Stats for 'eth0':  pkts: 4400462, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 00:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 00:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 00:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 00:25:53 - <Notice> - Stats for 'eth0':  pkts: 4400116, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 04:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 04:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 04:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 04:25:53 - <Notice> - Stats for 'eth0':  pkts: 4402625, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 08:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 08:00:01 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 08:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 08:25:53 - <Notice> - Stats for 'eth0':  pkts: 4401908, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 12:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 12:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 12:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 12:25:54 - <Notice> - Stats for 'eth0':  pkts: 4400198, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 16:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 16:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 16:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 16:25:53 - <Notice> - Stats for 'eth0':  pkts: 4399755, drop: 0 (0.00%), invalid chksum: 0
+25/3/2022 -- 20:00:01 - <Notice> - This is Suricata version 4.1.2 RELEASE
+25/3/2022 -- 20:00:02 - <Notice> - all 4 packet processing threads, 2 management threads initialized, engine started.
+25/3/2022 -- 20:25:53 - <Notice> - Signal Received.  Stopping engine.
+25/3/2022 -- 20:25:54 - <Notice> - Stats for 'eth0':  pkts: 4400228, drop: 0 (0.00%), invalid chksum: 0
