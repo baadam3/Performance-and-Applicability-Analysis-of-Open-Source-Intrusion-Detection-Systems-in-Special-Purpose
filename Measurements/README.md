@@ -1,1 +1,2 @@
-
+# Measurements
+This directory contains all the log files recorded during the execution of the research. Sub directory [Raw_logs](https://github.com/baadam3/Performance-and-Applicability-Analysis-of-Open-Source-Intrusion-Detection-Systems-in-Special-Purpose/tree/main/Measurements/Raw_logs) includes all the unformatted files with everything that was recorded (even unnecessary part). These logs were later disected into useful data with the help of python scripts which can be found in [Python](https://github.com/baadam3/Performance-and-Applicability-Analysis-of-Open-Source-Intrusion-Detection-Systems-in-Special-Purpose/tree/main/Python) directory of the project.
