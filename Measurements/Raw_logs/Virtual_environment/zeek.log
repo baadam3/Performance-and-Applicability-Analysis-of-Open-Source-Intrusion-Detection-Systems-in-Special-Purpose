@@ -1,0 +1,384 @@
+Total time elapsed: 2:23:36 (8616.76 seconds)
+Usermode: 379.69
+Kernel mode: 166.74
+Average CPU %: 6%
+Max memory: 239168 (Kbytes)
+---------
+Total time elapsed: 2:23:05 (8585.07 seconds)
+Usermode: 385.32
+Kernel mode: 173.34
+Average CPU %: 6%
+Max memory: 239892 (Kbytes)
+---------
+Total time elapsed: 2:22:43 (8563.45 seconds)
+Usermode: 352.91
+Kernel mode: 145.78
+Average CPU %: 5%
+Max memory: 237172 (Kbytes)
+---------
+Total time elapsed: 2:22:45 (8565.80 seconds)
+Usermode: 368.11
+Kernel mode: 152.05
+Average CPU %: 6%
+Max memory: 237648 (Kbytes)
+---------
+Total time elapsed: 2:24:41 (8681.90 seconds)
+Usermode: 435.30
+Kernel mode: 162.35
+Average CPU %: 6%
+Max memory: 237700 (Kbytes)
+---------
+Total time elapsed: 2:31:19 (9079.99 seconds)
+Usermode: 482.59
+Kernel mode: 240.39
+Average CPU %: 7%
+Max memory: 237556 (Kbytes)
+---------
+Total time elapsed: 2:27:40 (8860.19 seconds)
+Usermode: 408.22
+Kernel mode: 187.21
+Average CPU %: 6%
+Max memory: 240376 (Kbytes)
+---------
+Total time elapsed: 2:30:09 (9009.24 seconds)
+Usermode: 460.39
+Kernel mode: 189.38
+Average CPU %: 7%
+Max memory: 238628 (Kbytes)
+---------
+Total time elapsed: 2:31:29 (9089.16 seconds)
+Usermode: 449.41
+Kernel mode: 216.31
+Average CPU %: 7%
+Max memory: 238084 (Kbytes)
+---------
+Total time elapsed: 2:27:34 (8854.80 seconds)
+Usermode: 415.98
+Kernel mode: 174.34
+Average CPU %: 6%
+Max memory: 239524 (Kbytes)
+---------
+Total time elapsed: 2:28:52 (8932.35 seconds)
+Usermode: 445.75
+Kernel mode: 180.04
+Average CPU %: 7%
+Max memory: 238908 (Kbytes)
+---------
+Total time elapsed: 2:31:19 (9079.25 seconds)
+Usermode: 487.18
+Kernel mode: 204.53
+Average CPU %: 7%
+Max memory: 239388 (Kbytes)
+---------
+Total time elapsed: 2:31:50 (9110.60 seconds)
+Usermode: 480.04
+Kernel mode: 231.05
+Average CPU %: 7%
+Max memory: 239144 (Kbytes)
+---------
+Total time elapsed: 2:37:11 (9431.78 seconds)
+Usermode: 578.62
+Kernel mode: 227.68
+Average CPU %: 8%
+Max memory: 239048 (Kbytes)
+---------
+Total time elapsed: 2:33:03 (9183.48 seconds)
+Usermode: 512.07
+Kernel mode: 212.67
+Average CPU %: 7%
+Max memory: 238596 (Kbytes)
+---------
+Total time elapsed: 2:29:41 (8981.78 seconds)
+Usermode: 474.03
+Kernel mode: 188.56
+Average CPU %: 7%
+Max memory: 239924 (Kbytes)
+---------
+Total time elapsed: 2:30:16 (9016.79 seconds)
+Usermode: 464.39
+Kernel mode: 211.29
+Average CPU %: 7%
+Max memory: 239780 (Kbytes)
+---------
+Total time elapsed: 2:34:09 (9249.74 seconds)
+Usermode: 549.31
+Kernel mode: 225.79
+Average CPU %: 8%
+Max memory: 239204 (Kbytes)
+---------
+Total time elapsed: 2:32:24 (9144.57 seconds)
+Usermode: 505.37
+Kernel mode: 204.41
+Average CPU %: 7%
+Max memory: 238748 (Kbytes)
+---------
+Total time elapsed: 2:31:45 (9105.52 seconds)
+Usermode: 509.28
+Kernel mode: 203.70
+Average CPU %: 7%
+Max memory: 239732 (Kbytes)
+---------
+Total time elapsed: 2:35:07 (9307.80 seconds)
+Usermode: 570.10
+Kernel mode: 220.67
+Average CPU %: 8%
+Max memory: 239416 (Kbytes)
+---------
+Total time elapsed: 2:31:18 (9078.88 seconds)
+Usermode: 503.24
+Kernel mode: 205.04
+Average CPU %: 7%
+Max memory: 239240 (Kbytes)
+---------
+Total time elapsed: 2:32:06 (9126.51 seconds)
+Usermode: 505.12
+Kernel mode: 244.05
+Average CPU %: 8%
+Max memory: 238648 (Kbytes)
+---------
+Total time elapsed: 2:32:13 (9133.45 seconds)
+Usermode: 503.17
+Kernel mode: 251.09
+Average CPU %: 8%
+Max memory: 238860 (Kbytes)
+---------
+Total time elapsed: 2:31:25 (9085.24 seconds)
+Usermode: 510.15
+Kernel mode: 198.99
+Average CPU %: 7%
+Max memory: 238940 (Kbytes)
+---------
+Total time elapsed: 2:31:34 (9094.53 seconds)
+Usermode: 523.02
+Kernel mode: 199.93
+Average CPU %: 7%
+Max memory: 238752 (Kbytes)
+---------
+Total time elapsed: 2:31:43 (9103.52 seconds)
+Usermode: 521.78
+Kernel mode: 201.05
+Average CPU %: 7%
+Max memory: 238508 (Kbytes)
+---------
+Total time elapsed: 2:31:49 (9109.05 seconds)
+Usermode: 515.61
+Kernel mode: 200.52
+Average CPU %: 7%
+Max memory: 238932 (Kbytes)
+---------
+Total time elapsed: 2:32:08 (9128.76 seconds)
+Usermode: 517.71
+Kernel mode: 204.96
+Average CPU %: 7%
+Max memory: 238680 (Kbytes)
+---------
+Total time elapsed: 2:30:32 (9032.34 seconds)
+Usermode: 468.28
+Kernel mode: 223.04
+Average CPU %: 7%
+Max memory: 238888 (Kbytes)
+---------
+Total time elapsed: 2:30:11 (9011.99 seconds)
+Usermode: 479.64
+Kernel mode: 191.24
+Average CPU %: 7%
+Max memory: 239140 (Kbytes)
+---------
+Total time elapsed: 2:30:04 (9004.51 seconds)
+Usermode: 475.72
+Kernel mode: 192.46
+Average CPU %: 7%
+Max memory: 239236 (Kbytes)
+---------
+Total time elapsed: 2:30:02 (9002.71 seconds)
+Usermode: 473.33
+Kernel mode: 192.76
+Average CPU %: 7%
+Max memory: 238588 (Kbytes)
+---------
+Total time elapsed: 2:30:24 (9024.29 seconds)
+Usermode: 470.72
+Kernel mode: 213.73
+Average CPU %: 7%
+Max memory: 238712 (Kbytes)
+---------
+Total time elapsed: 2:30:17 (9017.51 seconds)
+Usermode: 485.42
+Kernel mode: 197.20
+Average CPU %: 7%
+Max memory: 239060 (Kbytes)
+---------
+Total time elapsed: 2:27:46 (8866.19 seconds)
+Usermode: 423.43
+Kernel mode: 171.45
+Average CPU %: 6%
+Max memory: 239440 (Kbytes)
+---------
+Total time elapsed: 2:29:17 (8957.35 seconds)
+Usermode: 437.58
+Kernel mode: 200.21
+Average CPU %: 7%
+Max memory: 239332 (Kbytes)
+---------
+Total time elapsed: 2:29:15 (8955.11 seconds)
+Usermode: 446.65
+Kernel mode: 187.60
+Average CPU %: 7%
+Max memory: 239580 (Kbytes)
+---------
+Total time elapsed: 2:30:29 (9029.17 seconds)
+Usermode: 467.71
+Kernel mode: 193.70
+Average CPU %: 7%
+Max memory: 239260 (Kbytes)
+---------
+Total time elapsed: 2:30:12 (9012.05 seconds)
+Usermode: 475.96
+Kernel mode: 190.85
+Average CPU %: 7%
+Max memory: 239856 (Kbytes)
+---------
+Total time elapsed: 2:30:44 (9044.29 seconds)
+Usermode: 476.29
+Kernel mode: 215.03
+Average CPU %: 7%
+Max memory: 239032 (Kbytes)
+---------
+Total time elapsed: 2:30:33 (9033.46 seconds)
+Usermode: 480.74
+Kernel mode: 191.39
+Average CPU %: 7%
+Max memory: 239292 (Kbytes)
+---------
+Total time elapsed: 2:30:57 (9057.97 seconds)
+Usermode: 473.08
+Kernel mode: 217.75
+Average CPU %: 7%
+Max memory: 238884 (Kbytes)
+---------
+Total time elapsed: 2:30:41 (9041.58 seconds)
+Usermode: 478.58
+Kernel mode: 212.60
+Average CPU %: 7%
+Max memory: 238596 (Kbytes)
+---------
+Total time elapsed: 2:30:40 (9040.29 seconds)
+Usermode: 487.14
+Kernel mode: 196.95
+Average CPU %: 7%
+Max memory: 238992 (Kbytes)
+---------
+Total time elapsed: 2:30:07 (9007.27 seconds)
+Usermode: 473.39
+Kernel mode: 188.55
+Average CPU %: 7%
+Max memory: 238656 (Kbytes)
+---------
+Total time elapsed: 2:29:38 (8978.73 seconds)
+Usermode: 468.07
+Kernel mode: 187.17
+Average CPU %: 7%
+Max memory: 238868 (Kbytes)
+---------
+Total time elapsed: 2:29:51 (8991.79 seconds)
+Usermode: 466.18
+Kernel mode: 186.31
+Average CPU %: 7%
+Max memory: 238968 (Kbytes)
+---------
+Total time elapsed: 2:29:17 (8957.84 seconds)
+Usermode: 466.69
+Kernel mode: 189.21
+Average CPU %: 7%
+Max memory: 238536 (Kbytes)
+---------
+Total time elapsed: 2:30:09 (9009.50 seconds)
+Usermode: 465.67
+Kernel mode: 206.48
+Average CPU %: 7%
+Max memory: 238700 (Kbytes)
+---------
+Total time elapsed: 2:29:14 (8954.48 seconds)
+Usermode: 462.95
+Kernel mode: 185.97
+Average CPU %: 7%
+Max memory: 238484 (Kbytes)
+---------
+Total time elapsed: 2:29:49 (8989.51 seconds)
+Usermode: 472.25
+Kernel mode: 191.97
+Average CPU %: 7%
+Max memory: 238488 (Kbytes)
+---------
+Total time elapsed: 2:29:38 (8978.75 seconds)
+Usermode: 463.26
+Kernel mode: 185.08
+Average CPU %: 7%
+Max memory: 238472 (Kbytes)
+---------
+Total time elapsed: 2:29:44 (8984.40 seconds)
+Usermode: 460.06
+Kernel mode: 207.71
+Average CPU %: 7%
+Max memory: 238532 (Kbytes)
+---------
+Total time elapsed: 2:29:49 (8989.44 seconds)
+Usermode: 466.50
+Kernel mode: 186.54
+Average CPU %: 7%
+Max memory: 238692 (Kbytes)
+---------
+Total time elapsed: 2:29:20 (8960.41 seconds)
+Usermode: 470.52
+Kernel mode: 191.81
+Average CPU %: 7%
+Max memory: 238544 (Kbytes)
+---------
+Total time elapsed: 2:29:28 (8968.87 seconds)
+Usermode: 458.11
+Kernel mode: 204.26
+Average CPU %: 7%
+Max memory: 239028 (Kbytes)
+---------
+Total time elapsed: 2:30:08 (9008.35 seconds)
+Usermode: 465.88
+Kernel mode: 181.06
+Average CPU %: 7%
+Max memory: 238692 (Kbytes)
+---------
+Total time elapsed: 2:30:05 (9005.43 seconds)
+Usermode: 472.49
+Kernel mode: 190.14
+Average CPU %: 7%
+Max memory: 238928 (Kbytes)
+---------
+Total time elapsed: 2:30:11 (9011.32 seconds)
+Usermode: 480.06
+Kernel mode: 187.09
+Average CPU %: 7%
+Max memory: 239140 (Kbytes)
+---------
+Total time elapsed: 2:29:47 (8987.43 seconds)
+Usermode: 459.65
+Kernel mode: 203.01
+Average CPU %: 7%
+Max memory: 238616 (Kbytes)
+---------
+Total time elapsed: 2:29:56 (8996.07 seconds)
+Usermode: 467.56
+Kernel mode: 187.76
+Average CPU %: 7%
+Max memory: 238968 (Kbytes)
+---------
+Total time elapsed: 2:29:56 (8996.69 seconds)
+Usermode: 473.55
+Kernel mode: 186.35
+Average CPU %: 7%
+Max memory: 238604 (Kbytes)
+---------
+Total time elapsed: 2:29:24 (8964.95 seconds)
+Usermode: 466.07
+Kernel mode: 183.65
+Average CPU %: 7%
+Max memory: 238776 (Kbytes)
+---------
