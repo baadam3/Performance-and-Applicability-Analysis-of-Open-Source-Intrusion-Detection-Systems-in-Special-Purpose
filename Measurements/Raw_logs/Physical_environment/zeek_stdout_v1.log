@@ -1,0 +1,728 @@
+listening on eth0
+
+# initialization 1.615604
+# initialization 196M/46M
+1645192813.538332 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645196024.043677 received termination signal
+1645196024.043677 47416675 packets received on interface eth0, 1178 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.362359
+# initialization 196M/46M
+1645207212.747647 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645210422.465020 received termination signal
+1645210422.465020 47426003 packets received on interface eth0, 1090 (0.00%) dropped, 1990 (0.00%) not processed
+listening on eth0
+
+# initialization 1.411774
+# initialization 196M/46M
+1645221612.688982 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645224823.894157 received termination signal
+1645224823.894157 47437223 packets received on interface eth0, 1106 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.625027
+# initialization 196M/46M
+1645236013.538573 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645239224.291139 received termination signal
+1645239224.291139 47421759 packets received on interface eth0, 1123 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.542361
+# initialization 196M/46M
+1645250412.488633 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645253623.391618 received termination signal
+1645253623.391618 47437404 packets received on interface eth0, 1236 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.359645
+# initialization 196M/46M
+1645264812.967709 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645268023.001018 received termination signal
+1645268023.001018 47425472 packets received on interface eth0, 1005 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.374109
+# initialization 196M/46M
+1645279212.998496 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645282423.642038 received termination signal
+1645282423.642038 47425757 packets received on interface eth0, 1087 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.531644
+# initialization 196M/46M
+1645293612.579420 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645296824.005628 received termination signal
+1645296824.005628 47437583 packets received on interface eth0, 1238 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.391741
+# initialization 196M/46M
+1645308013.309308 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645311224.237579 received termination signal
+1645311224.237579 47421522 packets received on interface eth0, 1129 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.367374
+# initialization 196M/46M
+1645322412.641077 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645325624.932855 received termination signal
+1645325624.932855 47440480 packets received on interface eth0, 1081 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.356456
+# initialization 196M/46M
+1645336813.090163 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645340023.442110 received termination signal
+1645340023.442110 47424788 packets received on interface eth0, 1041 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.388402
+# initialization 196M/46M
+1645351213.077651 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645354423.852827 received termination signal
+1645354423.852827 47425516 packets received on interface eth0, 1101 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.377939
+# initialization 196M/46M
+1645365613.128632 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645368823.637270 received termination signal
+1645368823.637270 47425811 packets received on interface eth0, 1034 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.378645
+# initialization 196M/46M
+1645380012.475796 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645383225.245482 received termination signal
+1645383225.245482 47440203 packets received on interface eth0, 1120 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.399590
+# initialization 196M/46M
+1645394412.689144 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645397624.752851 received termination signal
+1645397624.752851 47437424 packets received on interface eth0, 1106 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.632741
+# initialization 196M/46M
+1645408813.138522 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645412023.424028 received termination signal
+1645412023.424028 47421469 packets received on interface eth0, 1265 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.403449
+# initialization 196M/46M
+1645423212.868839 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645426423.328326 received termination signal
+1645426423.328326 47423725 packets received on interface eth0, 1031 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.368949
+# initialization 196M/46M
+1645437612.588781 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645440824.701301 received termination signal
+1645440824.701301 47439863 packets received on interface eth0, 1142 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.358687
+# initialization 196M/46M
+1645452012.659088 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645455224.866896 received termination signal
+1645455224.866896 47439969 packets received on interface eth0, 1163 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.358418
+# initialization 196M/46M
+1645466412.809170 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645469624.688347 received termination signal
+1645469624.688347 47425292 packets received on interface eth0, 1003 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.376906
+# initialization 196M/46M
+1645480813.168779 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645484024.072480 received termination signal
+1645484024.072480 47420912 packets received on interface eth0, 1098 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.531075
+# initialization 196M/46M
+1645495212.838425 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645498426.109896 received termination signal
+1645498426.109896 47438057 packets received on interface eth0, 1312 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.381555
+# initialization 196M/46M
+1645509613.079477 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645512823.932765 received termination signal
+1645512823.932765 47425104 packets received on interface eth0, 1016 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.359153
+# initialization 196M/46M
+1645524012.608922 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645527224.307648 received termination signal
+1645527224.307648 47440397 packets received on interface eth0, 1098 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.638604
+# initialization 196M/46M
+1645538413.381102 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645541623.872475 received termination signal
+1645541623.872475 47422026 packets received on interface eth0, 1108 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.399033
+# initialization 196M/46M
+1645552812.388841 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645556024.631811 received termination signal
+1645556024.631811 47439841 packets received on interface eth0, 1166 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.414431
+# initialization 196M/46M
+1645567213.307636 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645570423.891042 received termination signal
+1645570423.891042 47422401 packets received on interface eth0, 950 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.640919
+# initialization 196M/46M
+1645581613.379528 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645584823.061353 received termination signal
+1645584823.061353 47422333 packets received on interface eth0, 1078 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.369057
+# initialization 196M/46M
+1645596012.593815 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645599223.969094 received termination signal
+1645599223.969094 47439238 packets received on interface eth0, 1197 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.636222
+# initialization 196M/46M
+1645610413.118404 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645613624.860387 received termination signal
+1645613624.860387 47421907 packets received on interface eth0, 1166 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.661717
+# initialization 196M/46M
+1645624813.540121 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645628024.419254 received termination signal
+1645628024.419254 47420544 packets received on interface eth0, 1183 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.653068
+# initialization 196M/46M
+1645639213.420041 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645642424.100613 received termination signal
+1645642424.100613 47422027 packets received on interface eth0, 1108 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.610386
+# initialization 196M/46M
+1645653612.891008 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645656824.820771 received termination signal
+1645656824.820771 47432298 packets received on interface eth0, 1307 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.369578
+# initialization 196M/46M
+1645668012.429006 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645671225.108939 received termination signal
+1645671225.108939 47439633 packets received on interface eth0, 1192 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.361992
+# initialization 196M/46M
+1645682412.629517 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645685624.821018 received termination signal
+1645685624.821018 47439628 packets received on interface eth0, 1128 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.384759
+# initialization 196M/46M
+1645696812.872559 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645700023.617237 received termination signal
+1645700023.617237 47425157 packets received on interface eth0, 974 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.645894
+# initialization 196M/46M
+1645711213.578729 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645714424.564120 received termination signal
+1645714424.564120 47422442 packets received on interface eth0, 1054 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.382227
+# initialization 196M/46M
+1645725612.689200 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645728824.838815 received termination signal
+1645728824.838815 47439577 packets received on interface eth0, 1138 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.384785
+# initialization 196M/46M
+1645740013.090620 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645743223.489202 received termination signal
+1645743223.489202 47422297 packets received on interface eth0, 1055 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.642985
+# initialization 196M/46M
+1645754413.378879 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645757622.827182 received termination signal
+1645757622.827182 47421855 packets received on interface eth0, 1184 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.386814
+# initialization 196M/46M
+1645768812.579395 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645772025.120208 received termination signal
+1645772025.120208 47439093 packets received on interface eth0, 1093 (0.00%) dropped, 1995 (0.00%) not processed
+listening on eth0
+
+# initialization 1.393935
+# initialization 196M/46M
+1645783212.579129 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645786424.188868 received termination signal
+1645786424.188868 47439891 packets received on interface eth0, 1069 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.368335
+# initialization 196M/46M
+1645797613.159109 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645800824.321527 received termination signal
+1645800824.321527 47425426 packets received on interface eth0, 1022 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.367668
+# initialization 196M/46M
+1645812013.062176 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645815223.208052 received termination signal
+1645815223.208052 47425372 packets received on interface eth0, 997 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.567004
+# initialization 196M/46M
+1645826412.828674 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645829623.541362 received termination signal
+1645829623.541362 47435289 packets received on interface eth0, 1239 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.384877
+# initialization 196M/46M
+1645840812.878594 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645844024.243925 received termination signal
+1645844024.243925 47425342 packets received on interface eth0, 1028 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.353207
+# initialization 196M/46M
+1645855213.218354 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645858425.132050 received termination signal
+1645858425.132050 47425298 packets received on interface eth0, 1007 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.381021
+# initialization 196M/46M
+1645869612.482611 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645872824.109581 received termination signal
+1645872824.109581 47439832 packets received on interface eth0, 1148 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.353675
+# initialization 196M/46M
+1645884012.948039 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645887223.972554 received termination signal
+1645887223.972554 47425440 packets received on interface eth0, 1018 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.365209
+# initialization 196M/46M
+1645898412.528914 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645901623.648124 received termination signal
+1645901623.648124 47440192 packets received on interface eth0, 1126 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.626432
+# initialization 196M/46M
+1645912813.269264 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645916024.264423 received termination signal
+1645916024.264423 47431729 packets received on interface eth0, 1290 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.393669
+# initialization 196M/46M
+1645927213.279387 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645930423.185136 received termination signal
+1645930423.185136 47424450 packets received on interface eth0, 1106 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.381273
+# initialization 196M/46M
+1645941612.449736 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645944823.796772 received termination signal
+1645944823.796772 47440149 packets received on interface eth0, 1112 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.377588
+# initialization 196M/46M
+1645956012.412582 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645959225.161599 received termination signal
+1645959225.161599 47439926 packets received on interface eth0, 1151 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.638179
+# initialization 196M/46M
+1645970413.400222 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645973623.732947 received termination signal
+1645973623.732947 47421203 packets received on interface eth0, 1198 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.374414
+# initialization 196M/46M
+1645984812.570592 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1645988024.312936 received termination signal
+1645988024.312936 47440922 packets received on interface eth0, 1094 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.607446
+# initialization 196M/46M
+1645999213.118497 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646002424.295873 received termination signal
+1646002424.295873 47433043 packets received on interface eth0, 1261 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.362829
+# initialization 196M/46M
+1646013612.778588 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646016823.799712 received termination signal
+1646016823.799712 47425406 packets received on interface eth0, 982 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.374766
+# initialization 196M/46M
+1646028013.099487 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646031224.068854 received termination signal
+1646031224.068854 47424874 packets received on interface eth0, 999 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.381105
+# initialization 196M/46M
+1646042413.048590 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646045623.876939 received termination signal
+1646045623.876939 47425339 packets received on interface eth0, 977 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.368076
+# initialization 196M/46M
+1646056812.409080 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646060023.984802 received termination signal
+1646060023.984802 47439940 packets received on interface eth0, 1152 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.363687
+# initialization 196M/46M
+1646071213.038289 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646074423.239579 received termination signal
+1646074423.239579 47425160 packets received on interface eth0, 979 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.408968
+# initialization 196M/46M
+1646085612.951412 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646088823.549843 received termination signal
+1646088823.549843 47424153 packets received on interface eth0, 1134 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.396774
+# initialization 196M/46M
+1646100013.249003 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646103224.114031 received termination signal
+1646103224.114031 47424407 packets received on interface eth0, 1057 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.521802
+# initialization 196M/46M
+1646114412.478598 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646117625.684679 received termination signal
+1646117625.684679 47438116 packets received on interface eth0, 1377 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.381739
+# initialization 196M/46M
+1646128813.232353 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646132023.960459 received termination signal
+1646132023.960459 47424692 packets received on interface eth0, 1075 (0.00%) dropped, 1990 (0.00%) not processed
+listening on eth0
+
+# initialization 1.632776
+# initialization 196M/46M
+1646143213.563643 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646146423.841027 received termination signal
+1646146423.841027 47422030 packets received on interface eth0, 1096 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.626835
+# initialization 196M/46M
+1646157613.509245 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646160823.585623 received termination signal
+1646160823.585623 47423249 packets received on interface eth0, 1025 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.387706
+# initialization 196M/46M
+1646172013.168917 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646175223.481071 received termination signal
+1646175223.481071 47423740 packets received on interface eth0, 995 (0.00%) dropped, 1990 (0.00%) not processed
+listening on eth0
+
+# initialization 1.408543
+# initialization 196M/46M
+1646186412.378540 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646189624.269588 received termination signal
+1646189624.269588 47439036 packets received on interface eth0, 1200 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.363050
+# initialization 196M/46M
+1646200812.688367 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646204023.417529 received termination signal
+1646204023.417529 47426294 packets received on interface eth0, 1124 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.371856
+# initialization 196M/46M
+1646215212.899106 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646218422.585279 received termination signal
+1646218422.585279 47425419 packets received on interface eth0, 976 (0.00%) dropped, 1990 (0.00%) not processed
+listening on eth0
+
+# initialization 1.390064
+# initialization 196M/46M
+1646229613.018886 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646232823.486177 received termination signal
+1646232823.486177 47424782 packets received on interface eth0, 1024 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.363507
+# initialization 196M/46M
+1646244013.049131 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646247224.168689 received termination signal
+1646247224.168689 47424810 packets received on interface eth0, 1032 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.377467
+# initialization 196M/46M
+1646258413.069274 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646261624.616658 received termination signal
+1646261624.616658 47434467 packets received on interface eth0, 1080 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.396552
+# initialization 196M/46M
+1646272812.399263 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646276024.196732 received termination signal
+1646276024.196732 47439556 packets received on interface eth0, 1111 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.361105
+# initialization 196M/46M
+1646287213.029324 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646290423.757834 received termination signal
+1646290423.757834 47424885 packets received on interface eth0, 990 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.647940
+# initialization 196M/46M
+1646301613.279027 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646304824.097462 received termination signal
+1646304824.097462 47421777 packets received on interface eth0, 1129 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.359651
+# initialization 196M/46M
+1646316012.899751 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646319224.963003 received termination signal
+1646319224.963003 47424609 packets received on interface eth0, 1044 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.373956
+# initialization 196M/46M
+1646330412.538748 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646333624.430062 received termination signal
+1646333624.430062 47439970 packets received on interface eth0, 1189 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.406563
+# initialization 196M/46M
+1646344812.879304 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646348024.517662 received termination signal
+1646348024.517662 47437405 packets received on interface eth0, 1098 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.371648
+# initialization 196M/46M
+1646359212.338834 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646362423.893150 received termination signal
+1646362423.893150 47439228 packets received on interface eth0, 1177 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.387855
+# initialization 196M/46M
+1646373612.879086 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646376823.837443 received termination signal
+1646376823.837443 47425244 packets received on interface eth0, 983 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.365569
+# initialization 196M/46M
+1646388012.679113 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646391224.748023 received termination signal
+1646391224.748023 47439262 packets received on interface eth0, 1187 (0.00%) dropped, 1994 (0.00%) not processed
+listening on eth0
+
+# initialization 1.349915
+# initialization 196M/46M
+1646402412.899313 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646405625.145463 received termination signal
+1646405625.145463 47425056 packets received on interface eth0, 1059 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.364138
+# initialization 196M/46M
+1646416812.819608 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646420022.904239 received termination signal
+1646420022.904239 47425184 packets received on interface eth0, 951 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.358927
+# initialization 196M/46M
+1646431212.918465 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646434424.859912 received termination signal
+1646434424.859912 47435043 packets received on interface eth0, 1105 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.374422
+# initialization 196M/46M
+1646445613.118337 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646448824.179523 received termination signal
+1646448824.179523 47425160 packets received on interface eth0, 1020 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.360091
+# initialization 196M/46M
+1646460012.717666 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646463223.416257 received termination signal
+1646463223.416257 47425834 packets received on interface eth0, 1079 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.405800
+# initialization 196M/46M
+1646474413.179321 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646477623.797270 received termination signal
+1646477623.797270 47425059 packets received on interface eth0, 1010 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.372927
+# initialization 196M/46M
+1646488812.560425 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646492025.349542 received termination signal
+1646492025.349542 47440089 packets received on interface eth0, 1186 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.363725
+# initialization 196M/46M
+1646503213.238722 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646506424.584312 received termination signal
+1646506424.584312 47426063 packets received on interface eth0, 1107 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.434838
+# initialization 196M/46M
+1646517613.138412 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646520824.484938 received termination signal
+1646520824.484938 47434165 packets received on interface eth0, 1074 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.365216
+# initialization 196M/46M
+1646532013.068704 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646535224.639217 received termination signal
+1646535224.639217 47424384 packets received on interface eth0, 1086 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.365884
+# initialization 196M/46M
+1646546413.312292 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646549623.985156 received termination signal
+1646549623.985156 47425135 packets received on interface eth0, 1045 (0.00%) dropped, 1991 (0.00%) not processed
+listening on eth0
+
+# initialization 1.382817
+# initialization 196M/46M
+1646560813.231714 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646564025.073550 received termination signal
+1646564025.073550 47425339 packets received on interface eth0, 997 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.374122
+# initialization 196M/46M
+1646575212.479230 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646578425.909252 received termination signal
+1646578425.909252 47439610 packets received on interface eth0, 1139 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.662016
+# initialization 196M/46M
+1646589613.589765 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646592824.276836 received termination signal
+1646592824.276836 47421357 packets received on interface eth0, 1234 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.375626
+# initialization 196M/46M
+1646604012.588393 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646607224.357005 received termination signal
+1646607224.357005 47438471 packets received on interface eth0, 1106 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.368539
+# initialization 196M/46M
+1646618412.508326 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646621623.886144 received termination signal
+1646621623.886144 47438942 packets received on interface eth0, 1129 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.390151
+# initialization 196M/46M
+1646632812.939342 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646636024.051699 received termination signal
+1646636024.051699 47424877 packets received on interface eth0, 1025 (0.00%) dropped, 1992 (0.00%) not processed
+listening on eth0
+
+# initialization 1.392475
+# initialization 196M/46M
+1646647212.650835 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646650424.113128 received termination signal
+1646650424.113128 47439408 packets received on interface eth0, 1130 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.379383
+# initialization 196M/46M
+1646661612.541623 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646664825.021599 received termination signal
+1646664825.021599 47438794 packets received on interface eth0, 1078 (0.00%) dropped, 1993 (0.00%) not processed
+listening on eth0
+
+# initialization 1.354126
+# initialization 196M/46M
+1646676013.080756 warning in /usr/local/zeek/share/zeek/base/misc/find-checksum-offloading.zeek, line 54: Your interface is likely receiving invalid TCP and UDP checksums, most likely from NIC checksum offloading.  By default, packets with invalid checksums are discarded by Zeek unless using the -C command-line option or toggling the 'ignore_checksums' variable.  Alternatively, disable checksum offloading by the network adapter to ensure Zeek analyzes the actual checksums that are transmitted.
+1646679223.700749 received termination signal
+1646679223.700749 47425305 packets received on interface eth0, 963 (0.00%) dropped, 1992 (0.00%) not processed
