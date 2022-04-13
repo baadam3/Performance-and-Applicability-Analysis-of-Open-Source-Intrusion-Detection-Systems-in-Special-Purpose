@@ -3,21 +3,32 @@ This repository is created to make the templates of the research available for t
 ## Directory structure
 ```
 Automation/
-  | cron
+  | ...
   |
   +--IDSs/
-  |  runSnort.sh
-  |  runSuricata.sh
-  |  runZeek.sh
+  | ...
   |
   +--Traffic_generator/
-  | copyData.sh
-  | runTest.sh
-  |
-Python/
-  |
+  | ...
   |
 Measurements/
+  |
+  +--Raw_logs/
+  |  |
+  |  +---Virtual_environment/
+  |  |    ...  
+  |  |
+  |  +---Physical_environment/
+  |      |
+  |      +---stdout_logs/
+  |      |    ...
+  |      +---GNU_time_logs/
+  |             |   ...
+  |             +---Logs_with_attack/
+  |                   |       ....
+  |                   +---stdout_logs/
+  |                             ...
+Python/
   |
   |
 
