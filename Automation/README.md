@@ -16,3 +16,5 @@ Example format of a cron file:
 +------------------------ Minute
 ```
 ---
+## IDS scripts
+To take measurements the [GNU Time](https://www.gnu.org/software/time/) utility was used. This utility allows to measure certain resources used by another command. In this project, it was used with the following parameters: `/path/to/GNU/time -o /path/to/output/file -a -f '<format_of_output_log>' /monitored/tool` where `-o` creates an output file for GNU time, `-a` allows to append to the file instead of overwriting it and `-f '<format_of_output_log>'` is used to create custom format to the output file.
