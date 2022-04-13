@@ -4,13 +4,16 @@ This repository is created to make the templates of the research available for t
 ```
 Automation/
   | cron
+  |
   +--IDSs/
   |  runSnort.sh
   |  runSuricata.sh
   |  runZeek.sh
+  |
   +--Traffic_generator/
   | copyData.sh
   | runTest.sh
+  |
 Python/
   |
   |
