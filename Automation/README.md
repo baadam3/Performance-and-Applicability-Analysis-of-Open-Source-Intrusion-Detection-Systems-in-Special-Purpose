@@ -1,7 +1,7 @@
 # Automation 
 ---
 ## Cron job
-The file named cron contains a template of a cron job file that is a way of automation on Linux systems. Every part of the file may be changed based on the template below. Cron files could be placed into a number of different directories, in the case of this research it was plaved in **/etc/cron.d/**.
+The file named [cron](https://github.com/baadam3/Performance-and-Applicability-Analysis-of-Open-Source-Intrusion-Detection-Systems-in-Special-Purpose/blob/main/Automation/cron) contains a template of a cron job file that is a way of automation on Linux systems. Every part of the file may be changed based on the template below. Cron files could be placed into a number of different directories, in the case of this research it was plaved in **/etc/cron.d/**.
 Example format of a cron file:
 ```
 * * * * *  user /path/to/target
