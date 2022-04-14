@@ -12,8 +12,8 @@ Automation/
 | ...
 |
 Measurements/
-|
-+--Raw_logs/
+|  |
+|  +--Raw_logs/
 |  |
 |  +---Virtual_environment/
 |  |    ...  
