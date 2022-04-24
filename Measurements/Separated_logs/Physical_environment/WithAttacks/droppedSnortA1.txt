@@ -1,0 +1,1 @@
+There were no dropped packages, so there were no entries in snort default output!
