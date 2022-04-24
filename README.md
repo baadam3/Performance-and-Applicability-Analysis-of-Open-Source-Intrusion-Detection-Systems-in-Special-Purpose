@@ -3,9 +3,9 @@ This repository is created to make the templates of the research available for t
 ## Directory structure
 ```
 Automation/
-| ...
-|
-+--IDSs/
+|  | ...
+|  |
+|  +--IDSs/
 |  | ...
 |  |
 |  +--Traffic_generator/
