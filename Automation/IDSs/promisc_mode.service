@@ -1,1 +1,13 @@
-ip link set dev <NIC_name> promisc on
+[Unit]
+Description=Sets NIC in promiscuous mode and Disable GRO, LRO on boot
+After=network.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/sbin/ip link set dev <NIC_interface> promisc on
+ExecStart=/usr/sbin/ethtool -K <NIC_interface> gro off lro off
+TimeoutStartSec=0
+RemainAfterExit=yes
+
+[Install]
+WantedBy=default.target
