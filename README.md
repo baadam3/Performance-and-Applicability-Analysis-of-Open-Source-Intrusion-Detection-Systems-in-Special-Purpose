@@ -29,8 +29,6 @@ Measurements/
 |                   +---stdout_logs/
 |                             ...
 Python/
-|
-|
-
+| ...
 ```
 ---
