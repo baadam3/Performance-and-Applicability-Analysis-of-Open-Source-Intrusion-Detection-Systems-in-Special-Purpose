@@ -14,20 +14,24 @@ Automation/
 Measurements/
 |  |
 |  +--Raw_logs/
+|  |    |
+|  |    +---Virtual_environment/
+|  |    |    ...  
+|  |    |
+|  |    +---Physical_environment/
+|  |        |
+|  |        +---stdout_logs/
+|  |        |    ...
+|  |        +---GNU_time_logs/
+|  |                |   ...
+|  |                +---Logs_with_attack/
+|  |                      |       ...
+|  |                      +---stdout_logs/
+|  |                      |_      ...
 |  |
-|  +---Virtual_environment/
-|  |    ...  
 |  |
-|  +---Physical_environment/
-|      |
-|      +---stdout_logs/
-|      |    ...
-|      +---GNU_time_logs/
-|             |   ...
-|             +---Logs_with_attack/
-|                   |       ...
-|                   +---stdout_logs/
-|                   |_      ...
+|  +--Separated_logs/
+|
 Python/
 |_ ...
 ```
